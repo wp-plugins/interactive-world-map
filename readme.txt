@@ -7,19 +7,19 @@ Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-Free plugin for WordPress displaying an interactive map of the world with clickable continents. The map features customized links and popup balloons.
+Free plugin for WordPress displaying an interactive map of the world with clickable regions. The map features customized links and popup balloons.
 
 == Description ==
 
-Put an interactive continent-based HTML Map of the World to your Wordpress powered blog!
+Put an interactive region-based HTML Map of the World to your Wordpress powered blog!
 
 Whenever you need to give your visitors a simple yet effective way to navigate through regional sections of your blog, or if you want to provide some geography-related information to your readers, Fla-shop.com interactive map plugin is a one-stop solution. The plugin allows you to display a world map by simply adding a special shortcode into the main content of a page or a post. Thanks to visual editing of map's properties and effortless installation, the map can be deployed in merely few minutes.
 
 Features:
 
-*	Continent-based Map of the World
+*	Map of the World
 *	Works on iPad and iPhone. No Flash
-*	Clickable continents
+*	Clickable regions
 *	Popup windows that show when the mouse cursor is over it
 *	Customizable landing page links
 *	Builds into any WordPress page or post as a simple shortcode
