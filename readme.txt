@@ -24,6 +24,8 @@ Features:
 *	Customizable landing page links
 *	Builds into any WordPress page or post as a simple shortcode
 
+Find other responsive and static size HTML5 maps at [Fla-shop.com](http://www.fla-shop.com/)
+
 == Installation ==
 
 1. Use the Plugins -> Add new -> Upload menu and select plugin's zip file to open. 
