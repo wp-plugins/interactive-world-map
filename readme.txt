@@ -3,7 +3,7 @@ Contributors: html5maps
 Donate link: http://fla-shop.com/
 Tags: world, continent, map, maps, interactive map, javascript, html5 map, svg map, clickable map, dealer map
 Requires at least: 3.3
-Tested up to: 3.6.1
+Tested up to: 3.7.1
 Stable tag: 1.0
 License: GPLv2 or later
 
@@ -24,6 +24,7 @@ Features:
 *	Customizable landing page links
 *	Builds into any WordPress page or post as a simple shortcode
 
+Premium plugin [HTML5 Drill-down Map of World](http://www.fla-shop.com/products/wp-plugins/world/drill-down-world-map/)
 Find other responsive and static size HTML5 maps at [Fla-shop.com](http://www.fla-shop.com/)
 
 == Installation ==
