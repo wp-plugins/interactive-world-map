@@ -29,7 +29,7 @@ echo "<h2>" . __( 'Map settings', 'freeworldcontinent-html5-map' ) . "</h2>";
 
     });
 </script>
-
+<div style="width:600px;float:left">
 <form method="POST" class="usa-html5-map">
     <p>Specify general settings of the map. To choose a color, click a color box, select the desired color in the color selection dialog and click anywhere outside the dialog to apply the chosen color.</p>
 
@@ -45,4 +45,5 @@ echo "<h2>" . __( 'Map settings', 'freeworldcontinent-html5-map' ) . "</h2>";
     <input type="hidden" name="act_type" value="usa_map_plugin_main_save" />
     <p class="submit"><input type="submit" value="Save Changes" class="button-primary" id="submit" name="submit"></p>
 </form>
-
+</div>
+<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/zoomable-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map.png" border="0"></a></div>

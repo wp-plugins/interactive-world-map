@@ -1,6 +1,6 @@
 <?php
 
-$mapActionType = filesize(__FILE__) == 9629 ? 'EditAreas' : die;
+$mapActionType = filesize(__FILE__) == 9966 ? 'EditAreas' : die;
 
 $states = get_option('freeworldcontinenthtml5map_map_data');
 $states = json_decode($states, true);
@@ -142,7 +142,7 @@ echo "<h2>" . __( 'Configuration of Map Areas', 'freeworldcontinent-html5-map' )
         jQuery(f).prev().val('');
     }
 </script>
-
+<div style="width:600px;float:left">
 <form method="POST" class="usa-html5-map">
     <p>This tab allows you to add the area-specific information - set an area link and area information.</p>
 	<p class="help">* The term "area" means one of the following: region, state, country, province, county or district, depending on the particular plugin.</p>
@@ -203,4 +203,5 @@ echo "<h2>" . __( 'Configuration of Map Areas', 'freeworldcontinent-html5-map' )
     <input type="hidden" name="act_type" value="free_world_map_plugin_states_save" />
     <p class="submit"><input type="submit" value="Save Changes" class="button-primary" id="submit" name="submit"></p>
 </form>
-
+</div>
+<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/zoomable-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map.png" border="0"></a></div>

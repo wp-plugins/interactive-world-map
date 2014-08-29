@@ -38,8 +38,8 @@ function free_world_continent_map_plugin_states() {
 
 function free_world_continent_map_plugin_view() {
     ?>
-    <h1>Map Preview</h1>
-
+    <h2>Map Preview</h2>
+	<div style="width:600px;float:left">
     <?php
 
     echo free_world_continent_map_plugin_content('[freeworldcontinentmap]');
@@ -52,9 +52,10 @@ function free_world_continent_map_plugin_view() {
         <br />
 
         More <strong>free</strong> and <strong>premium</strong> interactive maps on the web site <a target="_blank" href="http://www.fla-shop.com">www.fla-shop.com</a><br />
-        <div class="map-vendor-info" style="margin: 30px 10px 20px 10px;">
 
-        </div>
+	</div>
+<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/zoomable-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map.png" border="0"></a></div>
+
     <?php
 }
 
