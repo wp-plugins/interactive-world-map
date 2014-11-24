@@ -24,7 +24,7 @@ Features:
 *	Customizable landing page links
 *	Builds into any WordPress page or post as a simple shortcode
 
-Take a look at [HTML5 Zoomable Map of World with all clickable countries and markers](http://www.fla-shop.com/products/wp-plugins/world/zoomable-world-map/)
+Take a look at [HTML5 Drill-down Map of World](http://www.fla-shop.com/products/wp-plugins/world/drill-down-world-map/)
 
 Find other responsive and static size HTML5 maps at [Fla-shop.com](http://www.fla-shop.com/)
 
