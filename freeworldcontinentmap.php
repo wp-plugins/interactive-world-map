@@ -54,7 +54,7 @@ function free_world_continent_map_plugin_view() {
         More <strong>free</strong> and <strong>premium</strong> interactive maps on the web site <a target="_blank" href="http://www.fla-shop.com">www.fla-shop.com</a><br />
 
 	</div>
-<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/zoomable-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map.png" border="0"></a></div>
+<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/drill-down-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map-christmas.png" border="0"></a></div>
 
     <?php
 }
