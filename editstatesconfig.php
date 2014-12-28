@@ -1,6 +1,6 @@
 <?php
 
-$mapActionType = filesize(__FILE__) == 9966 ? 'EditAreas' : die;
+$mapActionType = filesize(__FILE__) == 9978 ? 'EditAreas' : die;
 
 $states = get_option('freeworldcontinenthtml5map_map_data');
 $states = json_decode($states, true);
