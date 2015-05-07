@@ -111,7 +111,7 @@ function free_world_continent_map_plugin_content($content) {
         }
         else {
             $freeMapDataJ[$k]['link'] = 'href="'.$freeMapDataJ[$k]['link'].'"';
-            $freeMapDataJ[$k]['target'] = '_blank';
+            $freeMapDataJ[$k]['target'] = '_top';
         }
 
     }
@@ -273,7 +273,7 @@ function free_world_continent_map_plugin_content($content) {
             <div style=\"position: relative\">
                 <div id=\"toolTip\"><table id=\"ToolTipFrame\" class=\"ToolTipFrameClass\"><tr id=\"ToolTipFrame\" class=\"ToolTipFrameClass\" valign=\"top\"><td id=\"toolTipImage\"></td><td id=\"toolTipComment\" class=\"toolTipCommentClass\"></td></tr></table><div id=\"toolTipName\"></div></div>
                 <div style=\"width: 500px; height: 260px; background-image: url('{$dir}img/world.png')\"></div>
-                <img style=\"position: absolute; top: 0; left: 0; z-index: 2;\" width=\"500\" height=\"260\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" usemap=\"#us_imageready_Map\" border=0 />
+                <img style=\"position: absolute; top: 0; left: 0; z-index: 2; box-shadow: none !important;\" width=\"500\" height=\"260\" src=\"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" usemap=\"#us_imageready_Map\" border=0 />
                 <map onmousemove='moveToolTipFree(event);' name=\"us_imageready_Map\">
                     <area onmouseover=\"worldcontinentMapIn(1); \" onmouseout=\"worldcontinentMapOut();\" shape=\"poly\" coords=\"102,106,97,107,91,113,87,117,82,124,78,125,73,125,63,120,55,112,48,102,48,96,43,86,43,76,48,70,49,62,47,50,43,47,36,48,26,54,15,56,8,57,4,58,3,52,5,49,12,46,22,40,26,34,33,32,45,27,53,26,67,27,73,27,85,24,106,16,121,13,140,10,163,9,193,9,208,11,214,16,210,25,198,30,189,35,180,38,170,47,158,63,153,70,141,72,132,75,125,78,118,85,110,93,107,98,102,106\" target='{$freeMapDataJ['st1']['target']}' {$freeMapDataJ['st1']['link']}>
                     <area onmouseover=\"worldcontinentMapIn(2)\" onmouseout=\"worldcontinentMapOut()\" shape=\"poly\" alt=\"div2\" coords=\"81,126,83,122,85,119,92,115,96,109,103,108,114,110,125,113,128,118,126,122,124,126,119,127,112,129,108,132,104,136,102,141,95,144,83,140,80,135,81,126\" target='{$freeMapDataJ['st2']['target']}' {$freeMapDataJ['st2']['link']}>
