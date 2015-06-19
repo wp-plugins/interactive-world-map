@@ -204,4 +204,4 @@ echo "<h2>" . __( 'Configuration of Map Areas', 'freeworldcontinent-html5-map' )
     <p class="submit"><input type="submit" value="Save Changes" class="button-primary" id="submit" name="submit"></p>
 </form>
 </div>
-<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/drill-down-world-map/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map-christmas.png" border="0"></a></div>
+<div style="width:240px;float:left;padding-left:10px;"><a href="http://www.fla-shop.com/products/wp-plugins/world/countries/" target="_blank"><img src="<?php echo get_site_url();?>/wp-content/plugins/interactive-world-map/static/img/banner-premium-world-map.png" border="0"></a></div>
