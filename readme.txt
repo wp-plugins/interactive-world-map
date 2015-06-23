@@ -11,6 +11,8 @@ Free plugin for WordPress displaying an interactive map of the world with clicka
 
 == Description ==
 
+**Looking for a responsive and mobile-friendly maps? Try our brand new free WP plugin [HTML5 maps](https://wordpress.org/plugins/html5-maps/)**
+
 Put an interactive region-based HTML Map of the World to your Wordpress powered blog!
 
 Whenever you need to give your visitors a simple yet effective way to navigate through regional sections of your blog, or if you want to provide some geography-related information to your readers, Fla-shop.com interactive map plugin is a one-stop solution. The plugin allows you to display a world map by simply adding a special shortcode into the main content of a page or a post. Thanks to visual editing of map's properties and effortless installation, the map can be deployed in merely few minutes.
@@ -24,7 +26,7 @@ Features:
 *	Customizable landing page links
 *	Builds into any WordPress page or post as a simple shortcode
 
-Take a look at [Premium plugin World map with countries for WP](http://www.fla-shop.com/products/wp-plugins/world/countries/)
+Take a look at the [Premium plugin World map with countries for WP](http://www.fla-shop.com/products/wp-plugins/world/countries/)
 
 Find other responsive and static size HTML5 maps at [Fla-shop.com](http://www.fla-shop.com/)
 
