@@ -3,8 +3,8 @@ Contributors: html5maps
 Donate link: http://fla-shop.com/
 Tags: world, continent, map, maps, interactive map, javascript, html5 map, svg map, clickable map, dealer map
 Requires at least: 3.3
-Tested up to: 4.2.4
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 License: GPLv2 or later
 
 Free plugin for WordPress displaying an interactive map of the world with clickable regions. The map features customized links and popup balloons.
@@ -56,6 +56,8 @@ No, all maps inserted with the `[freeworldcontinentmap]` will share the same con
 
 
 == Changelog ==
+= 1.1 =
+* Minor changes.
 
 = 1.0 =
 * Initial release.
